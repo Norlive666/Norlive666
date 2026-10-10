@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 顶部渐变波浪横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,10,1&height=200&section=header&text=Hi%20there,%20I'm%20T某%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,10,1&height=200&section=header&text=Hi%20there,%20I'm%20Norlive666%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <!-- 动态打字效果 -->
   <a href="https://norlive666.github.io">
