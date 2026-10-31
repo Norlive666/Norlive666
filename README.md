@@ -10,8 +10,6 @@
 </p>
 
 
-I am currently exploring the **Fedora Linux** desktop environment, studying **ROS 2** and **Reinforcement Learning**, and actively leveraging **AI** to automate workflows across work and study.
-
 ## What I'm learning & working on
 
 - 🐧 **Fedora Linux** — daily desktop customization, system configuration, and Linux productivity workflows.
