@@ -9,7 +9,6 @@
   <a href="https://greasyfork.org/zh-CN/scripts/600841-%E5%98%89%E7%AB%8B%E5%88%9B-%E8%80%83%E8%AF%95%E6%98%9F%E9%A2%98%E7%9B%AE%E5%A1%AB%E5%86%99%E5%8A%A9%E6%89%8B"><img src="assets/script.svg" height="30" alt="Greasy Fork Script"></a>
 </p>
 
-Hi, I'm **Norlive**.
 
 I am currently exploring the **Fedora Linux** desktop environment, studying **ROS 2** and **Reinforcement Learning**, and actively leveraging **AI** to automate workflows across work and study.
 
